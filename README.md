@@ -54,3 +54,14 @@ It focuses on:
 - Terminal-based output
 
 Future improvements may include piece movement, rules validation, and basic game logic.
+
+---
+
+## 🚀 Roadmap
+
+- [x] Create and display chessboard in terminal
+- [x] Organize project using .h and .c files
+- [ ] Implement piece movement
+- [ ] Validate chess rules
+- [ ] Detect check and checkmate
+- [ ] Add simple game loop
